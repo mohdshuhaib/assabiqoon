@@ -97,7 +97,7 @@ h6 {
   width: 100%;
   height: 100%;
   overflow: visible;
-  background: #fff url("../img/annfirst.png") no-repeat center center;
+  background: #fff url("https://github.com/mohdshuhaib/myImages/blob/main/annfirst.png?raw=true") no-repeat center center;
 }
 
 /* Back to top button */
@@ -489,7 +489,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro {
   width: 100%;
   height: 100vh;
-  background: url(../img/head-img4.jpg) top center;
+  background: url('https://github.com/mohdshuhaib/myImages/blob/main/head-img4.jpg?raw=true') top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -573,7 +573,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 
 #about {
-  background: url("../img/head-img2.jpg");
+  background: url("https://github.com/mohdshuhaib/myImages/blob/main/head-img2.jpg?raw=true");
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -799,7 +799,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #venue .venue-info {
-  background: url("../img/venue2.png") top center no-repeat;
+  background: url("https://github.com/mohdshuhaib/myImages/blob/main/venue2.png?raw=true") top center no-repeat;
   background-size: cover;
   position: relative;
   padding-top: 60px;
