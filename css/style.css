@@ -765,6 +765,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 18px;
   font-weight: 600;
   margin-bottom: 5px;
+  font-family: 'Anek-Malayalam';
 }
 
 #schedule .schedule-item h4 span {
@@ -778,6 +779,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-style: italic;
   color: #152b79;
   margin-bottom: 0;
+  font-family: 'Anek-Malayalam';
 }
 
 /*--------------------------------------------------------------
